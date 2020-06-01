@@ -1,0 +1,6 @@
+pandas
+sklearn
+torch
+transformers
+nltk
+pyspellchecker
